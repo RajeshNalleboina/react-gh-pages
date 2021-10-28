@@ -32,7 +32,9 @@ See the section about [deployment](https://facebook.github.io/create-react-app/d
 ### `npm run eject`
 
 **Note: this is a one-way operation. Once you `eject`, you can’t go back!**
-### `git push https://1234567890123456789012345678901234567890@github.com/user-name/repo.git`
+### `git push https://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@github.com/skmahalakshmi/repo.git`
+
+git push https://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@github.com/skmahalakshmi/routerexample.git
 If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
 
 Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
