@@ -6,6 +6,7 @@ function App() {
         <div className="App">
             <h1>Maha Lakshmi</h1>
             <p>Creating a react app and deploying the project to github pages</p>
+         <p>Reacting the gh pages </p>
            <h5>Follow below steps</h5>
             <div className="Data">
             <ul>
