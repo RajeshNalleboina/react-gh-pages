@@ -14,7 +14,7 @@ function App() {
                 <li>Checking node version in local "npm --version"</li>
                 <li>Creating the new repository in github as "react-gh-pages"</li>
                 <li>create a react app "create-react-app react-gh-pages"</li>
-                <li>"cd react-gh-pages"</li>
+                <li>"cd react-gh-pages data"</li>
                 <li>run "npm install gh-pages --save-dev" </li>
                 <li>"Add home page key and deploy, deploy objects in package.json"</li>
                 <li>run command to Initilize the git "git init"</li>
